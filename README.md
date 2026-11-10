@@ -27,5 +27,5 @@ Her un için kaydırmaya bağlı bir sahne var: usta tezgaha un serper, kamera
 ## Notlar
 
 - Ürün bilgileri ve ürün görselleri Özmermer Un Sanayi ve Ticaret A.Ş.'ye aittir.
-- Albina dışındaki 1 kg paketler örnek tasarımdır (25/50 kg çuval tasarımından türetildi).
+- Dededen, Pideci ve Lüks Francalık çuvallarındaki "25 kg" yazısı 50 kg çuval tasarımından düzenlendi.
 - Sahne arka plan görselleri yapay zekâ (Canva) ile üretilmiştir.
